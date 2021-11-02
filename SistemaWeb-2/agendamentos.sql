@@ -43,7 +43,7 @@ CREATE TABLE IF NOT EXISTS `agendamentos` (
 --
 
 INSERT INTO `agendamentos` (`id`, `nome`, `telefone`, `origem`, `data_contato`, `observacao`) VALUES
-(1, 'Felipe Cavalcante Lins', '(11)91111-1111', 'Fixo', '2021-09-23', 'Consulta agendada para dia 25/09/2021\r\n');
+('Felipe Fernandes Bernardes', '(11)91425-2034', 'Fixo', '2015-10-11', 'Quero ver o que está de errado, blz?');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
